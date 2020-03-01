@@ -1,6 +1,6 @@
 # TESTE NAVE
 
-Os exercícios de 1 a 11 estão na pasta Ex1-11, todos podem ser executados pelo node com o comando "node nomedoArquivo.js" ou abrindo o a página HTML referente ao numero do exercício. Em casa arquivo js há uma descrição do que foi solicitado no exercício.
+Os exercícios de 1 a 11 estão na pasta Ex1-11, todos podem ser executados pelo node com o comando "node nomedoArquivo.js" ou abrindo o a página HTML referente ao numero do exercício. Em cada arquivo js há uma descrição do que foi solicitado no exercício.
 
 ## Front-End
 
